@@ -2,3 +2,5 @@
 ---
 - name: Hello this is the new world
   debug: "Printing the other values"
+
+- name: Lets do the task in the coming generation out of the incoming in that regardin the mcing
