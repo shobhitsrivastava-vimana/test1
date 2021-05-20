@@ -1,5 +1,4 @@
 ---
 ---
 - name: Hello this is the new world
-# this is what we should look forward in th= coming generation out of the incoming in that rgard int he comng
-# and what we think about the coming pressure in contract of the in
+  debug: "Printing the other values"
