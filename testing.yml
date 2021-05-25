@@ -1,0 +1,2 @@
+- name: Changing the preferences
+  debug: msg = "{{ Hello this is the new world }}"
