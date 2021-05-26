@@ -3,7 +3,7 @@
 - name: Hello this is the new world
   debug:
     msg: "Hello"
-CHecking in that regarf
+
 - name: HEllo this is next changes in the new repo
   debug:
     msg: "HEllo changes"
