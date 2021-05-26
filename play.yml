@@ -2,7 +2,7 @@
 ---
 - name: Hello this is the new world
   debug:
-    msg: "Hello BUddy how are you"
+    msg: "Hello BUddy how are you and "
 
 - name: HEllo this is next changes in the new repo
   debug:
