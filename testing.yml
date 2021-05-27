@@ -1,2 +1,5 @@
 - name: Changing the preferences
-  debug: msg = "{{ Hello this is the new world and are the people of the new world }}"
+  debug: msg = "{{ Hello this is the new world and in the comparing in theare the people of the new world }}"
+
+- name: Changing the preferences
+  debug: msg = "{{ Hello this is the new world and in the comparing in theare the people of the new world }}"
